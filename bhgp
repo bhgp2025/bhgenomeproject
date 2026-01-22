@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>BHGP – Bosnian and Herzegovinian Genome Project</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      color: #222;
+    }
+    header {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      background: #0a2a43;
+      padding: 15px 40px;
+      z-index: 1000;
+    }
+    header nav a {
+      color: #fff;
+      margin-right: 20px;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    section {
+      padding: 100px 60px;
+      max-width: 1100px;
+      margin: auto;
+    }
+    #hero {
+      padding-top: 140px;
+    }
+    h1, h2 {
+      color: #0a2a43;
+    }
+    footer {
+      background: #f2f2f2;
+      padding: 30px;
+      text-align: center;
+      font-size: 14px;
+    }
+    .email {
+      margin-bottom: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="#about">About BHGP</a>
+    <a href="#founders">Founders</a>
+    <a href="#partners">Partners</a>
+    <a href="#contribution">Contribution</a>
+    <a href="#contacts">Contacts</a>
+  </nav>
+</header>
+
+<section id="hero">
+  <h1>Bosnian and Herzegovinian Genome Project (BHGP)</h1>
+  <p>
+    Advancing genomic research through inclusive representation of Bosnia and Herzegovina.
+  </p>
+</section>
+
+<section id="about">
+  <h2>About BHGP</h2>
+  <p>
+    Following the completion of the Human Genome Project in 2003, countries around the world
+    have advanced this initiative by contributing valuable genetic, phenotypic, and clinical
+    data for biomedical research projects through cohort studies.
+  </p>
+  <p>
+    Cohorts are instrumental in examining diverse populations, key demographic subgroups,
+    rare genotypes and exposures, as well as gene-environment interactions. However, each
+    cohort is limited by its size, ancestral backgrounds, and geographical regions.
+  </p>
+  <p>
+    A major challenge in human genetics has been the historical under-representation of
+    large segments of the population in biomedical research. As Bosnia and Herzegovina
+    endeavors to engage in genetic research and establish its presence in the global
+    genetic landscape, BHGP aims to contribute up to 1,000 genomes on a volunteer basis.
+  </p>
+  <p>
+    The objective is to deepen our understanding of the genetic composition of B&H citizens,
+    enhance opportunities for biomedical research, and assess the prevalence of specific
+    genetic variants associated with various diseases.
+  </p>
+</section>
+
+<section id="founders">
+  <h2>About the Founders</h2>
+  <ul>
+    <li>Amina Kurtovic Kozaric</li>
+    <li>Mirela Tica-Spahic</li>
+    <li>Larisa Cerimagic</li>
+  </ul>
+</section>
+
+<section id="partners">
+  <h2>Partners</h2>
+  <p>
+    Institutional and academic partners will be listed here as collaborations expand.
+  </p>
+</section>
+
+<section id="contribution">
+  <h2>Contribution</h2>
+  <p>
+    BHGP is based on voluntary participation. Individuals interested in contributing
+    to the project will help establish the first large-scale genomic dataset from
+    Bosnia and Herzegovina, supporting future biomedical and population genetics research.
+  </p>
+</section>
+
+<section id="contacts">
+  <h2>Contacts</h2>
+  <div class="email">Amina Kurtovic Kozaric – amina.kurtovic@ibu.edu.ba</div>
+  <div class="email">Mirela Tica-Spahic – mirela.tica-spahic@stu.ibu.edu.ba</div>
+  <div class="email">Larisa Cerimagic – larisa.cerimagic@stu.ibu.edu.ba</div>
+</section>
+
+<footer>
+  © 2026 Bosnian and Herzegovinian Genome Project (BHGP)
+</footer>
+
+</body>
+</html>
